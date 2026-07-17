@@ -1,2 +1,2 @@
-# Mobile-Sales-Intelligence-Dashboard-
-📊 Power BI | Mobile Sales Dashboard | ₹769M Revenue Analysis | DAX Time Intelligence (MTD, SPLY) | Geospatial Mapping | Brand &amp; Product Analytics | 2021–2024
+Built a comprehensive Mobile Sales Intelligence Dashboard in Power BI to analyse ₹769M in retail mobile sales spanning 4 years (2021–2024), 5 major brands (Apple, Samsung, OnePlus, Vivo, Xiaomi), 15+ Indian cities, and 4K+ transactions. The dashboard features three interactive pages — Main Dashboard, MTD Report, and SPLY Comparison — powered by advanced DAX time-intelligence measures for Month-to-Date cumulative tracking and Same Period Last Year YoY variance analysis. Includes geospatial city-level sales maps, brand & model performance rankings, customer rating segmentation, and payment behaviour breakdown (UPI, Credit, Debit, Cash) — all driven by dynamic slicers for self-service stakeholder reporting.
+
